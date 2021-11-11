@@ -1,0 +1,14 @@
+we use material ui here in this projects
+
+===>>> a library that allows us to import and use different components to create a user interface in our React applications. This saves a significant amount of time since the developers do not need to write everything from scratch.
+
+
+// to solve the network policy we use proxy 
+// to solve the network policy we use proxy 
+====>> posts component is using the post
+
+
+What is jQuery and why is it used?
+jQuery is a JavaScript library that helps to simplify and standardize interactions between JavaScript code and HTML elements. JavaScript allows websites to be interactive and dynamic, and jQuery is a tool that helps streamline that process.
+
+// we use the constants folder because finding for a variable misspelled in string can take a long time to solve so we can use constants to solve this error and if it's missplled then it'll throw a error .
